@@ -1,4 +1,4 @@
-# Submissiob Dicoding Dasboard Bike
+# Submission Dicoding Dasboard Bike
 Course Dicoding tentang Belajar Analisis Data dengan Python
 
 # Setup Environment
